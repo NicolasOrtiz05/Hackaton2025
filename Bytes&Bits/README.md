@@ -67,8 +67,8 @@ El prototipo actual demuestra cómo la tecnología puede potenciar el trabajo pr
 ## Imágenes de Prototipo Funcional Dashboard
 
 ![Dashboard1](Dashboard1.jpg)
-![Dashboard2](Dashboard2.jpg)
-![Dashboard3](Dashboard3.jpg)
+![Dashboard2](DashBoard2.jpg)
+![Dashboard3](DashBoard3.jpg)
 
 ## Imágenes de Prototipo Funcional Alarmas
 
